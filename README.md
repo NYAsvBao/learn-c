@@ -120,5 +120,5 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ```
 1. 懂汇编的娃才能学好C语言~
 2. 基础永远值得花费90%的精力去学习加强~
-3. 思维导图真特么学习记忆神器~
+3. 思维导图真特么学习记忆神器~啊实打实的
 ```
